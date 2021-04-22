@@ -4,7 +4,7 @@
   "description": "Server for streamer project",
   "main": "server.js",
   "scripts": {
-    "start-server": "nodemon server"
+    "start": "nodemon server"
   },
   "author": "Balu Krishna R",
   "license": "ISC",
